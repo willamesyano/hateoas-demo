@@ -1,0 +1,5 @@
+/home/yano/Documentos/workspaces/yano-labs/hateoas-demo/src/main/java/com/yanolabs/hateoas_demo/HateoasDemoApplication.java
+/home/yano/Documentos/workspaces/yano-labs/hateoas-demo/src/main/java/com/yanolabs/hateoas_demo/controller/FinancialAssetController.java
+/home/yano/Documentos/workspaces/yano-labs/hateoas-demo/src/main/java/com/yanolabs/hateoas_demo/model/FinancialAssetModel.java
+/home/yano/Documentos/workspaces/yano-labs/hateoas-demo/src/main/java/com/yanolabs/hateoas_demo/repository/FinancialAssetRepository.java
+/home/yano/Documentos/workspaces/yano-labs/hateoas-demo/src/main/java/com/yanolabs/hateoas_demo/service/FinancialAssetService.java

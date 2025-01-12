@@ -1,0 +1,5 @@
+com/yanolabs/hateoas_demo/HateoasDemoApplication.class
+com/yanolabs/hateoas_demo/model/FinancialAssetModel.class
+com/yanolabs/hateoas_demo/service/FinancialAssetService.class
+com/yanolabs/hateoas_demo/repository/FinancialAssetRepository.class
+com/yanolabs/hateoas_demo/controller/FinancialAssetController.class
